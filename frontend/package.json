@@ -42,5 +42,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Pi Demo App is an example React app created with [Create React App](https://create-react-app.dev/).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
